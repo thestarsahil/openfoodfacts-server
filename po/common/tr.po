@@ -1464,7 +1464,7 @@ msgstr "besinler"
 
 msgctxt "nutriments_products"
 msgid "Products that contain the nutriment %s"
-msgstr "Besin maddesi içeren ürünler %s"
+msgstr "Besin değeri %s içermeyen ürünler"
 
 msgctxt "nutriments_s"
 msgid "nutriment"
@@ -1558,6 +1558,10 @@ msgctxt "nutrition_data_table_note"
 msgid "The table lists by default nutriments that are often specified. Leave the field blank if it's not on the label.<br/>You can add extra nutriments (vitamins, minerals, cholesterol etc.)\n"
 "by typing the first letters of their name in the last row of the table."
 msgstr "Tabloda, sıklıkla belirtilen besin ögeleri varsayılan olarak listelenir. Etikette yoksa, alanı boş bırakın.<br/> Tablonun son satırına adlarının ilk harflerini yazarak ekstra besin ögeleri (vitaminler, mineraller, kolesterol vb.) ekleyebilirsiniz."
+
+msgctxt "nutrition_data_table_asterisk"
+msgid "Essential nutrients to calculate the Nutri-Score."
+msgstr "Nutri-Score'u hesaplamak için temel besinler."
 
 msgctxt "nutrition_grades_p"
 msgid "Nutrition grades"
@@ -5087,7 +5091,7 @@ msgstr ""
 
 msgctxt "forest_footprint_calculation_details"
 msgid "Details of the calculation of the forest footprint"
-msgstr ""
+msgstr "Orman ayak izinin hesaplanmasına ilişkin ayrıntılar"
 
 msgctxt "you_are_on_the_public_database"
 msgid "You are on the public database."
@@ -5111,7 +5115,7 @@ msgstr "Bu senin ürünün mü? Öyleyse, üreticilerin güncellemesi için lüt
 
 msgctxt "product_edits_by_producers_platform"
 msgid "We encourage manufacturers to add or change data and photos for their products through our free platform for producers so that they can be marked as official and protected from changes by others."
-msgstr ""
+msgstr "Üreticileri, resmi olarak işaretlenebilmeleri ve başkaları tarafından yapılan değişikliklerden korunabilmeleri için ücretsiz platformumuz aracılığıyla ürünlerine veri ve fotoğraf eklemeye veya bunları değiştirmeye teşvik ediyoruz."
 
 msgctxt "product_edits_by_producers_import"
 msgid "The platform makes it easy to import product data and photos with an Excel or CSV file in any format."

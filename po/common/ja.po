@@ -1565,6 +1565,10 @@ msgid "The table lists by default nutriments that are often specified. Leave the
 msgstr "多くの場合に指定されるデフォルトの栄養成分を表に示します。ラベルにはない場合は空欄のままにしてください。<br/>追加の栄養成分を追加することができます（ビタミン、ミネラル、コレステロールなど）。\n"
 "表の最後の行で、名前の最初の文字を入力してください。"
 
+msgctxt "nutrition_data_table_asterisk"
+msgid "Essential nutrients to calculate the Nutri-Score."
+msgstr "栄養スコアを計算するのに不可欠な栄養素。"
+
 msgctxt "nutrition_grades_p"
 msgid "Nutrition grades"
 msgstr "栄養グレード"
